@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML/CSS/Javascript/Webpack/Ajax/Node.js/vue/React...
+- 🌱 I’m currently learning Front-end related knowledge，to be specific, they are Vue3、axios、Webpack...
 - 📫 How to reach me: zhao_shuchen@qq.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuchenzhao&show_icons=true&theme=radical)
