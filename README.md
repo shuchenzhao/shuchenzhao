@@ -7,6 +7,7 @@
 I don't commit often because I'm not currently maintaining any open source project. 
 
 You can also find me on Gitee. I did some small projects with my classmates a while back. 
+
 Here's the address: https://gitee.com/zhao_shuchen
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuchenzhao&show_icons=true&theme=radical)
